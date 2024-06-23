@@ -5,6 +5,7 @@
 - Typescript
 - TailwindCss
 - Vite Web Bundler
+- Typescript ESlint
 
 ## Installation
 
